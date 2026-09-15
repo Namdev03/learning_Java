@@ -12,6 +12,7 @@ import java.util.List;
 @RequestMapping("/api/student") //Common end point
 public class StudentController {
     //create student
+
     private StudentService studentService;
     public StudentController(StudentService studentService){
         this.studentService = studentService;
