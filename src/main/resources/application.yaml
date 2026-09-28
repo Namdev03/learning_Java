@@ -1,3 +1,14 @@
-spring:
-  application:
-    name: Auth-app
+#server:
+#  port: 8081
+#
+#spring:
+#  application:
+#    name: Auth-app
+#
+##  profiles:
+##    active: dev
+#
+#  #configuration
+#  #database Configuration
+#  #email Configuration
+#  #Oauth Configration
